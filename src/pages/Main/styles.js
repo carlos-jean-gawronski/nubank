@@ -6,4 +6,5 @@ export const Container = styled.View`
   flex: 1;
   background: #8b10ae;
   padding-top: ${getStatusBarHeight}px;
+  justify-content: center;
 `;
