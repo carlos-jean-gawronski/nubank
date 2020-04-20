@@ -13,7 +13,7 @@ react-native start
 ```
 Caso você não tenha o seu ambiente configurado para desenvolver com React Native, siga o tutorial da Rocketseat para instalação.
 
-[Ambiente React Native (Android/iOS)](https://github.com/Rocketseat/ambiente-react-native)
+[Ambiente React Native (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
 
 ---
 
